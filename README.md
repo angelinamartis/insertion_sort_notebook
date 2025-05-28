@@ -11,6 +11,6 @@ Hi
 
 ![alt text for screen readers](fish.png).
 
-'''Python
+```Python
 print("Hello, World!")
-'''
+```
