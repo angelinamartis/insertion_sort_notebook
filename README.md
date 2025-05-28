@@ -10,3 +10,7 @@ Hey
 Hi
 
 ![alt text for screen readers](fish.png).
+
+'''Python
+print("Hello, World!")
+'''
