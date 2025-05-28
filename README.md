@@ -9,4 +9,4 @@ Hey
 ### A third-level heading
 Hi
 
-![alt text for screen readers]().
+![alt text for screen readers](fish.png).
